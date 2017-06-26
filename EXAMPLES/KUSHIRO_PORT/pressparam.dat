@@ -1,0 +1,52 @@
+# SATURATED MODEL PPTS (KUSHIRO)
+5	 		# Total domain nb
+# Domain 1 [Layer 1 and 2]
+0.643	 # m1	(phi   = 40)
+0.469	 # m2	(phi_p = 28)     
+0.50	 # p1
+0.65	 # p2
+0.01     # S1
+7.00	 # w1   
+3.97	 # c1
+0.0		 # Cohesion [Pa]
+0.5		 # Coefficient of Earth at rest (K0)
+# Domain 2 [Layer 3]
+0.743	 # m1	(phi   = 48)
+0.469	 # m2	(phi_p = 28)
+0.50	 # p1
+0.40	 # p2
+0.01     # S1
+3.50	 # w1
+3.68	 # c1
+0.0		 # Cohesion [Pa]
+0.5		 # Coefficient of Earth at rest (K0)
+# Domain 3 [Layer 4]
+0.602	 # m1	(phi   = 37)
+0.00	 # m2	
+0.00	 # p1
+0.00	 # p2
+0.00     # S1
+0.00	 # w1
+0.00	 # c1
+0.0		 # Cohesion [Pa]
+0.5		 # Coefficient of Earth at rest (K0)
+# Domain 4 [Layers 5-6-8]
+0.694	 # m1	(phi   = 44)
+0.00	 # m2	
+0.00	 # p1
+0.00	 # p2
+0.00     # S1
+0.00	 # w1
+0.00	 # c1
+0.0		 # Cohesion [Pa]
+0.5		 # Coefficient of Earth at rest (K0)
+# Domain 5 [Layer 7]
+0.707	 # m1	(phi   = 45)
+0.00	 # m2	
+0.00	 # p1
+0.00	 # p2
+0.00     # S1
+0.00	 # w1
+0.00	 # c1
+0.0		 # Cohesion [Pa]
+0.5		 # Coefficient of Earth at rest (K0)
